@@ -26,5 +26,6 @@ java Client
 ![](image4.png)
 
 * Step 3: Guess the number until you guesses the correct number
+
 ![](image5.png)
 ![](image6.png)
