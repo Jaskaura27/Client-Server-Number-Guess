@@ -22,3 +22,5 @@ java Server
 java Client
 ```
 ![](image2.png)
+![](image3.png)
+![](image4.png)
